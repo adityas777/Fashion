@@ -1,0 +1,8 @@
+{
+  "name": "StyleSync AI",
+  "description": "An AI-powered omnichannel fashion retail platform featuring smart outfit recommendations, price comparison, virtual try-on analysis, and location-based trends.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
